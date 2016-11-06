@@ -25,7 +25,7 @@
 |11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam, Jia Song, Alif Sarker|
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh, Matt Bryson|
-|11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Tuan|
+|11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Narendra, Tuan,|
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini, Akhil Dixit, Ashwini P|
 |11/25|HOLIDAY|<a href=""></a>||
 |11/28|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina, Qihui Yang, YIFENG LIU, Yuanjiang|
